@@ -46,7 +46,7 @@
 
 **Завершающим этапом было оформления презентации в которой расписан сценарий по настройке параметров для выхода на 25-процентную маржинальность и собрана визуализация  **
 
->Ссылки на проект [Excel]([https://pages.github.com/](https://docs.google.com/spreadsheets/d/13Gy9fDzfq86S54LUBizDDuiGJ3lCW3wD/edit?usp=share_link&ouid=116039991336362566292&rtpof=true&sd=true) файл с решением задачи
+>Ссылки на проект [Excel]([[https://pages.github.com/](https://docs.google.com/spreadsheets/d/13Gy9fDzfq86S54LUBizDDuiGJ3lCW3wD/edit?usp=share_link&ouid=116039991336362566292&rtpof=true&sd=true](https://drive.google.com/drive/folders/1pTzBX7qENWKAdpnZbEgij-qkVan9NvGW?usp=share_link)) файл с решением задачи
 
 **Вывод:**
 Уменьшение расходов маркетинга на 60 % и снижение скидок на 60% может увеличить маржу до 25%. Увеличение стоимости подписки, в данном случае может снизить Retention и приток новых пользователей.
