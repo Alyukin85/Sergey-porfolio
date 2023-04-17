@@ -53,4 +53,4 @@
 
 
 <h2>Контактная информация</h2>
-Email: [alyukin.sergey@yandex.ru](alyukin.sergey@yandex.ru)
+Email: [alyukin.sergey@yandex.ru](alyukin.sergey@yandex.ru/)
