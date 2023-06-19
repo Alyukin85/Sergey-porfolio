@@ -8,7 +8,7 @@
 ## Навыки и технологии
 
 <ul>
-  <li>Инструменты анализа данных: <kbd>SQL</kbd>, <kbd>Excel</kbd>, <kbd>Google sheets</kbd></li>
+  <li>Инструменты анализа данных: <kbd>PostgreSQL</kbd>, <kbd>Excel</kbd>, <kbd>Google sheets</kbd></li>
 <li>Системы управления базами данных: <kbd>PostgreSQL</kbd></li>
   <li>Навыки: управление персоналом, обучение продажам, найм персонала</li>
 </ul>
